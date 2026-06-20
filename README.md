@@ -4,11 +4,7 @@ This project is a Sales Performance Dashboard created in Power BI to analyze sal
 # Key Features
 Sales and Profit Analysis
 Regional Performance Tracking
-Category & Sub-Category Analysis
-Monthly Sales Trend Monitoring
-Customer Segment Insights
-KPI Dashboard Reporting
-Interactive Filters and Visualizations
+
 
 # Tools & Technologies
 Power BI
